@@ -1,0 +1,71 @@
+Classes:
+  Person: Use master point file to create an array of people
+    Name (Levi Shinabery, House of Andrew, etc.)
+    House
+    Grade-level
+    Points
+  House: Add up student points
+  File: simpleFileName, fileName array
+
+Function Structure:
+  Selection: user choose operation
+  Point Input
+  Switch with Options to open file
+  Academics
+  Athletics
+  Service
+  Spirit
+  Finish input?
+  View Points for a House
+  View Points for all Houses
+  View Points for Individual
+  View Social or Service Events for House
+  View Nominations
+  View House roster
+  View leadership handbook
+  Find an entry and Edit any of the above
+
+User-Input Points for an Individual:
+//(Program lookup) Date - Today’s date: Convert this to int using function to count days since school start. //different on different OS? IOS, Android, Apple, Microsoft, etc.
+Date - Date of Event: can be string, simply for record.
+Category: Carpool (service), Nomination (service), Homework-Recording (service), Club Sport (Athletics), Choir (Arts), etc.
+Points: number of points
+Name of Point-Earner
+Program lookup House
+
+
+
+
+Files:
+  Name, House, Grade-Level
+  Social Events: items on separate lines
+    Name of event
+    Location
+    Time
+    House
+    Description
+    Attendees comma-separated
+    Reflection
+    Points
+  Service Events
+    Name of event
+    Location
+    Time
+    House
+    Organization
+    Description
+    Attendees comma-separated
+    Reflection
+    Points
+  Nominations
+    Student
+    Teacher
+    Date
+    House Awarded
+    Description
+    Points
+
+
+
+
+
