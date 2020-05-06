@@ -1,0 +1,1 @@
+This file includes: Student Name (string), House (char), Grade Level (int), Campus (string), Total Points (int)
